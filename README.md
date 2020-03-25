@@ -1,4 +1,4 @@
-# Resumo :
+# Resumo Laboratório Periféricos TC, RTC & RTT:
 
 Esse exemplo demonstra o controle do módulo de `OLED 1 XPLAINED PRO`  via interface SPI (Serial Peripheral Interface Bus).
 
